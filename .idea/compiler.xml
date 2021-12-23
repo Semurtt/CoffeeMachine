@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="16" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.main" target="16" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="16" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="16" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="16" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="16" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="16" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="16" />
+      <module name="Coffee_Machine.Topics-Companion_object-Board_game_basics__Player.main" target="16" />
+      <module name="Coffee_Machine.Topics-Companion_object-Companion.main" target="16" />
+      <module name="Coffee_Machine.Topics-Companion_object-Fix_an_error.main" target="16" />
+      <module name="Coffee_Machine.Topics-Companion_object-Fix_me.main" target="16" />
+      <module name="Coffee_Machine.Topics-Companion_object-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Constructors-Bank_account.main" target="16" />
+      <module name="Coffee_Machine.Topics-Constructors-Init_usage.main" target="16" />
+      <module name="Coffee_Machine.Topics-Constructors-Pets.main" target="16" />
+      <module name="Coffee_Machine.Topics-Constructors-Point2D.main" target="16" />
+      <module name="Coffee_Machine.Topics-Constructors-Reddit.main" target="16" />
+      <module name="Coffee_Machine.Topics-Constructors-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Calculate_volume.main" target="16" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Gratuity.main" target="16" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Polynomial.main" target="16" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Print_Username.main" target="16" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Summation.main" target="16" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Enum-Currencies.main" target="16" />
+      <module name="Coffee_Machine.Topics-Enum-Currency_comparison.main" target="16" />
+      <module name="Coffee_Machine.Topics-Enum-Danger_level.main" target="16" />
+      <module name="Coffee_Machine.Topics-Enum-Rainbow_colors.main" target="16" />
+      <module name="Coffee_Machine.Topics-Enum-The_rainbow_order.main" target="16" />
+      <module name="Coffee_Machine.Topics-Enum-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Car_price.main" target="16" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Greeting.main" target="16" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Perimeter.main" target="16" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Named_arguments-URL.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Busy_internship.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Christmas_tree.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Clothing_problem.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Heroes_and_villains.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Improve_your_vehicle.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-New_Inner_class.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Pumpkin_and_candle.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Your_vehicle.main" target="16" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Blocks_in_a_box.main" target="16" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Board_game_basics__Game.main" target="16" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Cell.main" target="16" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Library.main" target="16" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Manager.main" target="16" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-City_population.main" target="16" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Theory.main" target="16" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Weather_comparison.main" target="16" />
+      <module name="Coffee_Machine.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

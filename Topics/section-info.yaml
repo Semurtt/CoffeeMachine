@@ -1,0 +1,9 @@
+content:
+- Named arguments
+- Properties accessors
+- Constructors
+- Nested and inner classes
+- Object declarations
+- Companion object
+- Default arguments
+- Enum

@@ -1,0 +1,61 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Enum/Currency comparison/out/
+/Topics/Enum/Currency comparison/out/production/classes/
+/Topics/Enum/Danger level/out/
+/Topics/Enum/Danger level/out/production/classes/
+/Topics/Enum/Rainbow colors/out/
+/Topics/Enum/Rainbow colors/out/production/classes/
+/Topics/Enum/The rainbow order/out/
+/Topics/Enum/The rainbow order/out/production/classes/
+/Topics/Enum/Theory/out/
+/Topics/Enum/Theory/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Named arguments/Greeting/out/
+/Topics/Named arguments/Greeting/out/production/classes/
+/Topics/Named arguments/Perimeter/out/
+/Topics/Named arguments/Perimeter/out/production/classes/
+/Topics/Named arguments/Theory/out/
+/Topics/Named arguments/Theory/out/production/classes/
+/Topics/Named arguments/URL/out/
+/Topics/Named arguments/URL/out/production/classes/
+/Topics/Nested and inner classes/Busy internship/out/
+/Topics/Nested and inner classes/Busy internship/out/production/classes/
+/Topics/Nested and inner classes/Christmas tree/out/
+/Topics/Nested and inner classes/Christmas tree/out/production/classes/
+/Topics/Nested and inner classes/Clothing problem/out/
+/Topics/Nested and inner classes/Clothing problem/out/production/classes/
+/Topics/Nested and inner classes/Heroes and villains/out/
+/Topics/Nested and inner classes/Heroes and villains/out/production/classes/
+/Topics/Nested and inner classes/Improve your vehicle/out/
+/Topics/Nested and inner classes/Improve your vehicle/out/production/classes/
+/Topics/Nested and inner classes/New Inner class/out/
+/Topics/Nested and inner classes/New Inner class/out/production/classes/
+/Topics/Nested and inner classes/Pumpkin and candle/out/
+/Topics/Nested and inner classes/Pumpkin and candle/out/production/classes/
+/Topics/Nested and inner classes/Theory/out/
+/Topics/Nested and inner classes/Theory/out/production/classes/
+/Topics/Nested and inner classes/Your vehicle/out/
+/Topics/Nested and inner classes/Your vehicle/out/production/classes/
+/Topics/Object declarations/Blocks in a box/out/
+/Topics/Object declarations/Blocks in a box/out/production/classes/
+/Topics/Object declarations/Board game basics  Game/out/
+/Topics/Object declarations/Board game basics  Game/out/production/classes/
+/Topics/Object declarations/Cell/out/
+/Topics/Object declarations/Cell/out/production/classes/
+/Topics/Object declarations/Library/out/
+/Topics/Object declarations/Library/out/production/classes/
+/Topics/Object declarations/Manager/out/
+/Topics/Object declarations/Manager/out/production/classes/
+/Topics/Object declarations/Theory/out/
+/Topics/Object declarations/Theory/out/production/classes/
+/Topics/Properties accessors/City population/out/
+/Topics/Properties accessors/City population/out/production/classes/
+/Topics/Properties accessors/Theory/out/
+/Topics/Properties accessors/Theory/out/production/classes/
+/Topics/Properties accessors/Weather comparison/out/
+/Topics/Properties accessors/Weather comparison/out/production/classes/
